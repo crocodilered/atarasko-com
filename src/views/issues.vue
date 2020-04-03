@@ -70,6 +70,14 @@
           href: '/i/i9.pdf', 
           title: 'Рецепт гранолы',
           size: '37 КБ'
+        }, {
+          href: '/i/Полезные привычки.docx', 
+          title: 'Полезные привычки',
+          size: '26 КБ'
+        }, {
+          href: '/i/Gut Reset Day 3 Guide.pdf', 
+          title: 'Gut Reset Day 3 Guide',
+          size: '1 211 КБ'
         }]
       }
     }
