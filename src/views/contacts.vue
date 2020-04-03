@@ -40,9 +40,9 @@
             </a>
           </li>
           <li>
-            <a href="https://www.instagram.com/anastasia_tarasko_doc/">
+            <a href="https://www.instagram.com/dr.tarasko/">
               <fa-icon size="lg" :icon="['fab', 'instagram']" />
-              anastasia_tarasko_doc
+              dr.tarasko
             </a>
           </li>
         </ul>

@@ -35,7 +35,7 @@
           </b-col>
           <b-col cols="auto" align-self="end">
             <a href="https://www.facebook.com/WellbeingPages/"><fa-icon size="lg" :icon="['fab', 'facebook-square']" /></a>
-            <a href="https://www.instagram.com/anastasia_tarasko_doc/"><fa-icon size="lg" :icon="['fab', 'instagram']" /></a>
+            <a href="https://www.instagram.com/dr.tarasko/"><fa-icon size="lg" :icon="['fab', 'instagram']" /></a>
           </b-col>
         </b-row>
       </b-container>
